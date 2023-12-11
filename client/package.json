@@ -1,0 +1,37 @@
+{
+  "name": "scrum_ceremony_client",
+  "private": true,
+  "version": "0.1",
+  "homepage": "/scrum/",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-datepicker": "^4.10.0",
+    "react-dom": "^17.0.2",
+    "react-intl": "^5.25.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.1.2",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.1",
+    "jquery": "^3.6.0",
+    "jquery-validation": "^1.19.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
